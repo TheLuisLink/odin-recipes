@@ -25,7 +25,8 @@ a:link, a:visited {
     text-decoration: none;
     color: darkgoldenrod;
     background-color: white;
-    border: 5px brown;
+    border-style: solid;
+    border: 2px black;
     padding: 5px 15px;
     display: inline-block;
 }
@@ -34,4 +35,5 @@ a:hover, a:active {
     border: 5px silver;
     background-color: black;
     color: silver;
+    text-decoration: underline;
 }
